@@ -4,7 +4,7 @@ Halo: Combat Evolved with Apex Legends style movement. This page only hosts the 
 
 ## Install
 
-1. Download `HaloMomentumEvolved-v0.0.10-windows.zip` (the newest version's zip) from the [latest release](https://github.com/blackbird987/hme-releases/releases/latest).
+1. Download the `HaloMomentumEvolved-...-windows.zip` file from the [latest release](https://github.com/blackbird987/hme-releases/releases/latest).
 2. Unzip it into a folder of its own (for example `C:\Games\HME`).
 3. Run `halo.exe`. Windows may warn that the app is unrecognised: click "More info", then "Run anyway". If the firewall asks, allow it (private and public networks), or online play cannot connect.
 
